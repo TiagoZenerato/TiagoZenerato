@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu Git! Eu sou o Tiago de Moraes zenerato 😁
+## Seja bem vindo ao meu Git! Eu sou o Tiago de Moraes Zenerato 😁
 #
 ### Contato profissional:
 - [dr.zenerato@gmail.com]() <br/>
